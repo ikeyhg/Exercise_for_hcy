@@ -1,0 +1,65 @@
+5.5040 	WARNING 	Couldn't measure a consistent frame rate!
+  - Is your graphics card set to sync to vertical blank?
+  - Are you running other processes on your computer?
+
+5.5045 	EXP 	Created window1 = Window(allowGUI=True, allowStencil=False, autoLog=True, backendConf=UNKNOWN, backgroundFit=<method-wrapper '__getattribute__' of attributeSetter object at 0x7fc7838a4f40>, backgroundImage=<method-wrapper '__getattribute__' of attributeSetter object at 0x7fc7838a4ee0>, bitsMode=UNKNOWN, blendMode='avg', bpc=(8, 8, 8), color=array([0, 0, 0]), colorSpace='rgb', depthBits=8, fullscr=<method-wrapper '__getattribute__' of attributeSetter object at 0x7fc7838a4d00>, gamma=None, gammaErrorPolicy='raise', lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x7fc783ad34c0>, multiSample=False, name='window1', numSamples=2, pos=(520, 296), screen=0, size=array([1440, 1200]), stencilBits=0, stereo=False, title='PsychoPy', units='height', useFBO=True, useRetina=True, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+5.5046 	EXP 	window1: mouseVisible = True
+5.5047 	EXP 	window1: backgroundImage = ''
+5.5047 	EXP 	window1: backgroundFit = 'none'
+5.5075 	EXP 	window1: Attempting to measure frame rate of screen (0) ...
+5.5076 	EXP 	window1: recordFrameIntervals = False
+5.5876 	EXP 	window1: recordFrameIntervals = True
+6.4268 	WARNING 	Couldn't measure a consistent frame rate!
+  - Is your graphics card set to sync to vertical blank?
+  - Are you running other processes on your computer?
+
+6.4269 	EXP 	window1: mouseVisible = True
+6.4720 	WARNING 	launchHubServer: If using the iohub mouse or eyetracker devices, fullScr should be True.
+8.3433 	EXP 	Exercise_for_hcy: status = STARTED
+8.3436 	EXP 	window1: mouseVisible = True
+8.3677 	EXP 	Created text_welcome = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial Unicode MS', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='text_welcome', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='欢迎来到试验！', units='height', win=Window(...), wrapWidth=1)
+8.3678 	EXP 	window1: mouseVisible = True
+8.3802 	EXP 	Created text_Instruction = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial Unicode MS', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='text_Instruction', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='height', win=Window(...), wrapWidth=1)
+8.3802 	EXP 	window1: mouseVisible = True
+8.3823 	EXP 	Created text_blank = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='text_blank', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='', units='height', win=Window(...), wrapWidth=1)
+8.3823 	EXP 	window1: mouseVisible = True
+8.3884 	EXP 	Created text_Q1 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial Unicode MS', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='text_Q1', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='你认为大众眼中的抑郁症患者是怎样的？', units='height', win=Window(...), wrapWidth=1)
+8.3885 	EXP 	window1: mouseVisible = True
+8.3913 	EXP 	Created text_Answer01 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial Unicode MS', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='text_Answer01', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='焦虑的        抑郁的', units='height', win=Window(...), wrapWidth=1)
+8.3913 	EXP 	window1: mouseVisible = True
+8.3922 	EXP 	Created text_blank = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='text_blank', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='', units='height', win=Window(...), wrapWidth=1)
+8.3923 	EXP 	window1: mouseVisible = True
+8.3949 	EXP 	Created text_Q2 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial Unicode MS', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='text_Q2', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='你自己所认为的抑郁症患者是怎样的？', units='height', win=Window(...), wrapWidth=1)
+8.3949 	EXP 	window1: mouseVisible = True
+8.3966 	EXP 	Created text_answer02 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial Unicode MS', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='text_answer02', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='焦虑的       抑郁的', units='height', win=Window(...), wrapWidth=1)
+8.3966 	EXP 	window1: mouseVisible = True
+8.3991 	EXP 	Created text_goodbye = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial Unicode MS', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='text_goodbye', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='谢谢你的参与！', units='height', win=Window(...), wrapWidth=1)
+0.0212 	EXP 	text_welcome: autoDraw = True
+2.0086 	EXP 	text_welcome: autoDraw = False
+2.0086 	EXP 	text_Instruction: autoDraw = True
+3.4862 	WARNING 	t of last frame was 31.02ms (=1/32)
+3.4862 	EXP 	text_Instruction: autoDraw = False
+3.4862 	EXP 	text_blank: autoDraw = True
+3.4997 	DATA 	Keypress: space
+3.9749 	EXP 	text_blank: autoDraw = False
+3.9749 	EXP 	text_blank: autoDraw = False
+3.9749 	EXP 	text_Q1: autoDraw = True
+6.9720 	EXP 	text_Q1: autoDraw = False
+6.9720 	EXP 	text_Q1: autoDraw = False
+6.9781 	EXP 	text_Answer01: autoDraw = True
+7.6995 	DATA 	Keypress: a
+7.7051 	EXP 	text_Answer01: autoDraw = False
+7.7051 	EXP 	text_blank: autoDraw = True
+8.1934 	EXP 	text_blank: autoDraw = False
+8.1934 	EXP 	text_blank: autoDraw = False
+8.1934 	EXP 	text_Q2: autoDraw = True
+11.1927 	EXP 	text_Q2: autoDraw = False
+11.1927 	EXP 	text_Q2: autoDraw = False
+11.1927 	EXP 	text_answer02: autoDraw = True
+12.1275 	DATA 	Keypress: l
+12.1308 	EXP 	text_answer02: autoDraw = False
+12.1308 	EXP 	text_goodbye: autoDraw = True
+15.1245 	EXP 	text_goodbye: autoDraw = False
+15.1245 	EXP 	text_goodbye: autoDraw = False
+15.1245 	EXP 	Exercise_for_hcy: status = STOPPED
+15.1519 	EXP 	window1: mouseVisible = True
